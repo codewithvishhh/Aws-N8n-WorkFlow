@@ -37,8 +37,4 @@ Body: {
   "message": "Test message"
 }
 
-## Screenshots
-See /screenshots folder
 
-## Demo Video
-[Watch Demo](YOUR_YOUTUBE_LINK)
