@@ -29,7 +29,6 @@ deployed on AWS EC2.
 Webhook → If → Google Sheets → Gmail → Response
 
 ## How to Test
-POST http://localhost:5678/webhook/lead-capture
 Body: {
   "name": "Test",
   "email": "test@gmail.com", 
